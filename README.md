@@ -1,4 +1,4 @@
-### Build-with: 
+### Built-with: 
 - Tailwind CSS
 - NextJS 
 
